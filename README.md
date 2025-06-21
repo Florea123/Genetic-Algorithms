@@ -66,18 +66,18 @@ This module uses Genetic Algorithms to solve graph coloring problems, determinin
     g++ -o GraphColoring Genetic\ Algorithm\ Applied\ to\ Graphs/H3.cpp
 ```
 3. Run the executables:
-    -Hill Climbing and Simulated Annealing:
-```bash
-    ./HillClimbing
-```
-    -Genetic Algorithm for Mathematical Functions:
-```bash
-./GeneticAlgorithm
-```
-    -Genetic Algorithm for Graph Coloring:
-```bash
-./GraphColoring
-```
+    - **Hill Climbing and Simulated Annealing**:
+      ```bash
+      ./HillClimbing
+      ```
+    - **Genetic Algorithm for Mathematical Functions**:
+      ```bash
+      ./GeneticAlgorithm
+      ```
+    - **Genetic Algorithm for Graph Coloring**:
+      ```bash
+      ./GraphColoring
+      ```
 
 ## Folder Structure
 - **Hill Climbing and Simulated Annealing**:
